@@ -18,7 +18,7 @@ pip install pymupdf tqdm
 ## Usage
 Run the script by specifying the directory containing the PDF files:
 ```sh
-python script.py /path/to/pdf/directory
+python finder.py /path/to/pdf/directory
 ```
 
 ## Configuration
