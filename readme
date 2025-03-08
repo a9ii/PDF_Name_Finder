@@ -18,7 +18,7 @@ pip install pymupdf tqdm
 ## Usage
 Run the script by specifying the directory containing the PDF files:
 ```sh
-python finder.py /path/to/pdf/directory
+python script.py /path/to/pdf/directory
 ```
 
 ## Configuration
@@ -61,7 +61,4 @@ This project is licensed under the MIT License.
 
 ## Contributions
 Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## Author
-Developed by [Your Name].
 
